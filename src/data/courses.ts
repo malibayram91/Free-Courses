@@ -1559,6 +1559,17 @@ const courses: Course[] = [
     flags: "flag-icon-tr",
     image: "https://miro.medium.com/max/1400/0*-jhnXzZ3HsnoeC_s.jpg",
   },
+  {
+    title: "En Baştan Yazılıma Başlama Eğitimi; Flutter Dart Başlangıç Düzeyi",
+    description: "Bu youtube oynatma listesindeki videolarla flutter ve dart ile tanışabilirsiniz. Böylece birçok platforma tek bir kod yazarak uygulama geliştirmenin temellerini atmış olacaksınız.",
+    link: "https://youtu.be/UFOEB2luPn0?list=PLrWGe5fM0LZ4PSm2Gcz1N6Z9IzyPZnkyR",
+    author: "Mehmet Ali Bayram",
+    level: "Beginner - Intermadiate",
+    categories: "flutter",
+    language: "Turkish",
+    flags: "flag-icon-tr",
+    image: "https://miro.medium.com/max/1400/0*-jhnXzZ3HsnoeC_s.jpg",
+  },
 ]
   .map((course) => {
     return {
